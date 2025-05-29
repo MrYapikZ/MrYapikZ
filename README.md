@@ -35,7 +35,6 @@ I'm a passionate **Software Engineer** and **Game Developer**, currently diving 
 ## 📫 Let's Connect
 - 🌐 [My Website / Portfolio](http://expiproject.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mryapikz)
-- 📧 Email: expiprojectofficial@gmail.com
 
 ---
 
