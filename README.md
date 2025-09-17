@@ -8,7 +8,6 @@ I'm a passionate **Software Engineer** and **Game Developer**, currently diving 
 ## 💻 What I Do
 - 🧠 Software Engineering & Game Development
 - 🎮 Unity & Godot Developer
-- 🌐 WordPress Development
 - 🕹️ Indie Game Projects & Freelance Work
 
 ---
@@ -26,9 +25,8 @@ I'm a passionate **Software Engineer** and **Game Developer**, currently diving 
 ---
 
 ## 🖥️ Devices I Use
-- 💻 Windows 11
 - 🍎 macOS
-- 🐧 Arch Linux (Hyprland)
+- 🐧 Arch Linux
 
 ---
 
