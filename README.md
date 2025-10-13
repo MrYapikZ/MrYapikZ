@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Yapi
 
 Welcome to my GitHub profile!  
-I’m a Technical Director in the animation industry, currently exploring Software Engineering, Data Science, and Game Development to understand how technology can enhance storytelling and design.
+I’m a **Technical Director** in the animation industry, currently exploring **Software Engineering**, **Data Science**, and **Game Development** to understand how technology can enhance storytelling and design.
 
-I’m also learning Japanese 🇯🇵 and Russian 🇷🇺 — because whether in code or in language, every syntax is a new way to think.
+I’m also learning **Japanese** 🇯🇵 and **Russian** 🇷🇺 — because whether in code or in language, every syntax is a new way to think.
 
 ---
 
